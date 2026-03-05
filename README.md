@@ -61,12 +61,17 @@ gcc filebasedcalculator.c -o calculator
 
 # Run
 ./calculator
+
+---
+
 Security Notes
 The AD script uses a default password (Passw0rd!!) – change this for production use
 
 All scripts are for educational purposes and should be tested in isolated environments first
 
 Review any script before running it with administrative privileges
+
+---
 
 Learning Outcomes
 These scripts demonstrate proficiency in:
@@ -79,7 +84,10 @@ C: Memory management, file I/O, string parsing, pointer arithmetic
 
 General: Problem-solving, documentation, error handling, code organization
 
+---
+
 Connect With Me
+---
 Portfolio: https://x-alted.ca
 
 LinkedIn: https://linkedin.com/in/ajtmacintyre
