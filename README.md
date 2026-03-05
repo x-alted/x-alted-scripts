@@ -36,22 +36,25 @@ A collection of PowerShell, Bash, and C scripts demonstrating automation, system
 # Then run:
 .\loadfromcsv.ps1
 File Scanner
-powershell
+```powershell
 # Run in any directory to scan for files >50KB
 .\list_large_files.ps1
+```
+```
 Bash Scripts
-bash
+```bash
 # Make scripts executable first
 chmod +x guessing-game.sh evenodd.sh
-
+```
 # Run guessing game
+```
 ./guessing-game.sh
+```
 
 # Run even/odd classifier with numbers
 ./evenodd.sh 1 2 3 4 5 6
 C Calculator
-bash
-# Compile
+``` bash
 gcc filebasedcalculator.c -o calculator
 
 # Create a math.txt file with expressions like:
