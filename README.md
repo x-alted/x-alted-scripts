@@ -57,6 +57,7 @@ gcc filebasedcalculator.c -o calculator
 # Create a math.txt file with expressions like:
 # 5 + 3
 # 10 - 2 * 4
+```
 
 # Run
 ./calculator
