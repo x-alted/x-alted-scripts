@@ -2,7 +2,7 @@
 
 A collection of PowerShell, Bash, and C scripts demonstrating automation, system administration, and security-focused programming. These projects were developed during my Cybersecurity Diploma at NSCC and through self-directed learning.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ### PowerShell Scripts
 | Script | Description | Skills Demonstrated |
@@ -21,7 +21,7 @@ A collection of PowerShell, Bash, and C scripts demonstrating automation, system
 |--------|-------------|---------------------|
 | `filebasedcalculator.c` | Reads arithmetic expressions from a text file, parses them left-to-right, and writes results to an output file | File I/O, string tokenization, pointer manipulation, low-level programming |
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **PowerShell scripts**: Windows with Active Directory module (for AD script) or any Windows system (for file scanner)
