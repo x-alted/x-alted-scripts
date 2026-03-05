@@ -1,0 +1,49 @@
+```gitignore
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.log
+
+# IDE 
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# binaries
+*.exe
+*.dll
+*.so
+*.dylib
+calculator.exe
+calculator
+
+# input/output data files
+math.txt
+math_output.txt
+*.csv
+*.xlsx
+user_load.csv
+
+# security sensitive
+*.env
+.env.*
+.secrets
+passwords.txt
+*.key
+*.pem
+
+# backup files
+*.bak
+*.old
+*.orig
+
+# test outputs
+test-output/
+temp/
